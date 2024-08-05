@@ -1,0 +1,21 @@
+#digiclock {
+	font-size: 175px;
+	color: rgb(16, 161, 16);
+	width: 900px;
+	margin-left: 300px;
+    margin-top: 250px;
+	text-align: center;
+	border:none;
+	border-radius: 20px;
+	text-shadow: 2px 2px 4px rgb(22, 37, 25,1.5);
+	
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/027/375/145/non_2x/nature-background-design-vector.jpg");
+}
+#digiclock1
+{
+	font-size: 30px;
+	margin-left: 320px;
+	color: rgb(29, 116, 29);
+}
